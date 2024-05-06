@@ -6,9 +6,9 @@
 
 🍳 I’m currently working on [GenDAM](https://gendam.ai)
 
-🦾 Serving as the lead dev at [特赞](https://tezign.com)  
+🦾 Serving as the lead dev at [特赞](https://tezign.com) and [MuseAI](https://app.museai.cc)  
 
-💰 Having previously built [嘿店](https://www.heidianer.com) as my entrepreneurial project
+💰 Having previously built [嘿店](https://www.heidianer.com) and [八音盒](https://www.wedfairy.com) as my entrepreneurial project
 
 👻 I'm 𝕝𝕠𝕤𝕥 𝕚𝕟 𝕔𝕣𝕪𝕡𝕥𝕠 [HippyGhosts](https://hippyghosts.io)
 
