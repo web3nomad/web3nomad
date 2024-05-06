@@ -6,13 +6,13 @@
 
 🍳 I’m currently working on [GenDAM](https://gendam.ai)
 
-🦾 Serving as the lead dev at [Tezign](https://tezign.com)  
+🦾 Serving as the lead dev at [特赞](https://tezign.com)  
 
 💰 Having previously built [嘿店](https://www.heidianer.com) as my entrepreneurial project
 
 👻 I'm 𝕝𝕠𝕤𝕥 𝕚𝕟 𝕔𝕣𝕪𝕡𝕥𝕠 [HippyGhosts](https://hippyghosts.io)
 
-🔮 While capturing moments in crypto [MuseTime](https://musetime.xyz)
+🔮 While capturing on-chain moments [MuseTime](https://musetime.xyz)
 
 📝 I regularly write articles on [三人行 web3nomad.eth 鬼骨孖 xD dOt cOM](https://blog.web3nomad.com)
 
