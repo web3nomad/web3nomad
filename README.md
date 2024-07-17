@@ -22,6 +22,9 @@
 
 ## Stacks
 
+[![My Stacks](https://skillicons.dev/icons?i=solidity,rust,py,ts,tauri,prisma,react,tailwind,git,kubernetes,docker,sublime&perline=4)](https://skillicons.dev)
+
+<!--
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=solidity,rust,py,ts" />
@@ -37,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,sublime" />
   </a>
 </p>
+-->
 
 ![web3nomad top lans](https://github-readme-stats.vercel.app/api/top-langs?username=web3nomad&show_icons=true&locale=en&layout=compact)
 
