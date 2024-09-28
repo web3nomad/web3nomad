@@ -6,7 +6,7 @@
 
 🍳 I’m currently working on [GenDAM](https://gendam.ai)
 
-🦾 Serving as the lead dev at [特赞](https://tezign.com) and [MuseAI](https://app.museai.cc)  
+🦾 Serving as the lead dev at [特赞](https://www.tezign.com) and [MuseAI](https://museai.cc)  
 
 💰 Having previously built [嘿店](https://www.heidianer.com) and [八音盒](https://www.wedfairy.com) as my entrepreneurial project
 
