@@ -14,7 +14,7 @@
 
 🔮 While capturing on-chain moments [MuseTime](https://musetime.xyz)
 
-📝 I regularly write articles on [三人行 web3nomad.eth 鬼骨孖 xD dOt cOM](https://blog.web3nomad.com)
+📝 I regularly write articles on [*☾ᯓ. 𝗌𝗍𝖺𝗒 𝗅𝗈𝖼𝖺𝗅, 𝗌𝗍𝖺𝗒 𝗉𝗋𝗂𝗏𝖺𝗍𝖾.](https://blog.web3nomad.com)
 
 📄 Know about my experiences [MuseLink](https://muselink.cc/web3nomad)
 
