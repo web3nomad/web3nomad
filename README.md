@@ -2,7 +2,7 @@
 
 🗝️ I’m delving into **0ldsk00l 𝓢𝓲𝓷𝓬𝓮 𝓽𝓱𝓮 𝟣𝟫𝟪𝟢𝓼**
 
-👨🏻‍💻 I'm #BuiDL **自由的互联网**</p>
+👨🏻‍💻 I'm #BuiDL **自由的互联网**
 
 🍳 I’m currently working on [GenDAM](https://gendam.ai)
 
