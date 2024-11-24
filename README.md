@@ -1,5 +1,4 @@
 ## *☾ᯓ. 𝗌𝗍𝖺𝗒 𝗅𝗈𝖼𝖺𝗅, 𝗌𝗍𝖺𝗒 𝗉𝗋𝗂𝗏𝖺𝗍𝖾.
-![output](https://github.com/user-attachments/assets/15d25920-e53d-45b9-87c3-75b7c01f293c)
 
 🗝️ I’m delving into **0ldsk00l 𝓢𝓲𝓷𝓬𝓮 𝓽𝓱𝓮 𝟣𝟫𝟪𝟢𝓼**
 
@@ -49,6 +48,7 @@
 
 𝘀𝘂𝗱𝗼 𝗲𝗻𝗰𝗿𝘆𝗽𝘁 --𝗰𝗶𝗽𝗵𝗲𝗿 Hᴛᴇ.DΛM0ɴ3ʙEᴡ --𝘀𝗼𝘂𝗿𝗰𝗲 /𝗱𝗲𝘃/𝘀𝗱𝗮 --𝗼𝘂𝘁𝗽𝘂𝘁 /𝗱𝗲𝘃/𝘀𝗱𝗮
 
+![output](https://github.com/user-attachments/assets/15d25920-e53d-45b9-87c3-75b7c01f293c)
 
 <!--
 **web3nomad/web3nomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
