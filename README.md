@@ -4,7 +4,7 @@
 
 👨🏻‍💻 I'm #BuiDL **自由的互联网**
 
-🍳 I’m currently working on [GenDAM](https://gendam.ai)
+🍳 I’m currently working on [atypica.AI](https://atypica.ai) and [GenDAM](https://gendam.ai)
 
 🦾 Serving as the lead dev at [特赞](https://www.tezign.com) and [MuseDAM](https://www.musedam.ai)  
 
