@@ -42,7 +42,9 @@
 </p>
 -->
 
+<!--
 ![web3nomad top lans](https://github-readme-stats.vercel.app/api/top-langs?username=web3nomad&show_icons=true&locale=en&layout=compact)
+-->
 
 ##
 
